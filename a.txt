@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 svbn12
+=======
+svbn
+svbn
+>>>>>>> b59a5493409f00df32e3a0b2a91e3f06558fdfa8
